@@ -1,2 +1,3 @@
-# AR-Core-Motorcycle-Engine
-AR to display Motorcyce and Engine
+# AR-Furniture
+Augmented Reality android app to visualize furniture.
+with ViedoNode in AR Scene
